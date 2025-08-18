@@ -18,7 +18,5 @@ Might as well embrace the chaos and learn it properly.
 - Maybe become friends with async/await one day  
 
 ---
----
 
-# learning-javascript
-<center>Just tryna get my brain to stop erroring like my code ;( </center>
+<pre>Just tryna get my brain to stop erroring like my code ;( </pre>
